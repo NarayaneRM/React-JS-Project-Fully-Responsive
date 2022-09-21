@@ -6,12 +6,12 @@ import './App.css';
 function App() {
   return (
     <>
-    <Router>
-      <Navbar/>
-      <Routes>
-        <Route path='/' exact/>
-      </Routes>
-    </Router>
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path='/' exact />
+        </Routes>
+      </Router>
     </>
       
   );
